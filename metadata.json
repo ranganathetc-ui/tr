@@ -1,0 +1,6 @@
+{
+  "name": "Habit Tracker & Productivity Dashboard",
+  "description": "A high-fidelity minimalist habit tracker featuring customizable streaks, adaptive calendar views, interactive individual metrics, gamified badges, seamless CSV sync backup, and visual notification scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
